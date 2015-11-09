@@ -1,0 +1,28 @@
+{
+  "name": "generator-powershell",
+  "version": "0.1.0",
+  "description": "A Yeoman generator for PowerShell projects.",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "homepage": "https://github.com/PowerShell/generator-powershell#readme",    
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PowerShell/generator-powershell.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PowerShell/generator-powershell/issues"
+  },  
+  "keywords": [
+    "yeoman-generator",    
+    "powershell",
+    "module",
+    "ps1",
+    "psm1"
+  ],
+  "files": [
+    "generators/app"
+  ],  
+  "dependencies": {
+    "yeoman-generator": "^0.21.1"
+  }
+}
